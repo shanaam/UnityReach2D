@@ -1,9 +1,0 @@
-{
-    "num_trials_aligned_reach_1": 50,
-    "num_trials_noCursor_reach_1": 15,
-    "test_to_log": "test",
-    "test_list": [ 30, 45, 60 ],
-    "min_target": 45,
-    "max_target": 135,
-    "num_targets": 3
-}
