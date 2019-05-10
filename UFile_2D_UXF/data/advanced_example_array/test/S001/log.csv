@@ -1,0 +1,72 @@
+timestamp,log_type,message
+0,Log,Loaded: D:\shanaa\repos\UnityReach2D\UFile_2D_UXF\data\basic_example_participant_list.csv
+5.835685,Log,Updating: D:\shanaa\repos\UnityReach2D\UFile_2D_UXF\data\basic_example_participant_list.csv
+6.6084,Warning,Warning: Session already exists! Continuing will overwrite
+7.214639,Log,Get ready...
+7.820504,Log,Go!
+8.883548,Log,Array value (testing) is: one
+8.883548,Log,Resetting
+11.58218,Log,Array value (testing) is: one
+11.95567,Log,Array value (testing) is: one
+12.79848,Log,Array value (testing) is: one
+13.99114,Log,Array value (testing) is: one
+14.95586,Log,Get ready...
+14.96281,Log,Moved too early!
+14.96281,Log,Resetting
+15.69137,Log,Get ready...
+15.78256,Log,Moved too early!
+15.78256,Log,Resetting
+16.08244,Log,Get ready...
+16.68949,Log,Go!
+17.70423,Log,Array value (testing) is: one
+17.70423,Log,Resetting
+18.50635,Log,Get ready...
+19.70814,Log,Go!
+20.7253,Log,Array value (testing) is: one
+20.7253,Log,Resetting
+21.28901,Log,Get ready...
+22.48999,Log,Go!
+23.20039,Log,Array value (testing) is: one
+23.20039,Log,Resetting
+37.43196,Log,Get ready...
+37.44613,Log,Moved too early!
+37.44613,Log,Resetting
+37.55304,Log,Get ready...
+38.7548,Log,Go!
+39.44871,Log,Array value (testing) is: one
+39.44871,Log,Resetting
+39.97853,Log,Get ready...
+41.17967,Log,Go!
+41.79147,Log,Array value (testing) is: two
+41.79147,Log,Resetting
+42.01249,Log,Array value (testing) is: two
+42.73963,Log,Get ready...
+43.34324,Log,Go!
+44.02427,Log,Array value (testing) is: two
+44.02427,Log,Resetting
+44.63295,Log,Get ready...
+45.84,Log,Go!
+46.22432,Log,Array value (testing) is: two
+46.22432,Log,Resetting
+46.53503,Log,Array value (testing) is: two
+47.0177,Log,Get ready...
+48.22419,Log,Go!
+48.80981,Log,Array value (testing) is: two
+48.80981,Log,Resetting
+49.34178,Log,Get ready...
+49.94721,Log,Go!
+50.69016,Log,Array value (testing) is: threee
+50.69016,Log,Resetting
+51.32353,Log,Get ready...
+51.92805,Log,Go!
+52.71446,Log,Array value (testing) is: threee
+52.71446,Log,Resetting
+53.33232,Log,Get ready...
+53.93279,Log,Go!
+54.33762,Log,Array value (testing) is: threee
+54.33762,Log,Resetting
+55.14462,Log,Get ready...
+55.74589,Log,Go!
+56.16448,Log,Array value (testing) is: threee
+56.16448,Log,Resetting
+56.16448,Log,System.Collections.Generic.List`1[UXF.Block]

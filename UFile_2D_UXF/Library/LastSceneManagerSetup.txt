@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UXF/Examples/Advanced/AdvancedExample.unity
+  isLoaded: 1
+  isActive: 1

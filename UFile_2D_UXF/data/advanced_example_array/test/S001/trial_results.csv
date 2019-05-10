@@ -1,0 +1,14 @@
+directory,experiment,ppid,session_num,trial_num,block_num,trial_num_in_block,start_time,end_time,delay_time,inverted,correct_target_position,moved_time,correct,cursorfollower_movement_filename
+advanced_example_array/test/S001,advanced_example_array,test,1,1,1,1,7.820504,8.883548,0.6,False,Right,8.304127,True,cursorfollower_movement_T001.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,2,1,2,16.68949,17.70423,0.6,False,Right,17.23837,True,cursorfollower_movement_T002.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,3,1,3,19.70814,20.7253,1.2,False,Left,19.9934,True,cursorfollower_movement_T003.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,4,1,4,22.48999,23.20039,1.2,False,Right,22.80494,True,cursorfollower_movement_T004.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,5,1,5,38.7548,39.44871,1.2,False,Left,39.0757,True,cursorfollower_movement_T005.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,6,2,1,41.17967,41.79147,1.2,False,Right,41.53665,True,cursorfollower_movement_T006.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,7,2,2,43.34324,44.02427,0.6,False,Right,43.64975,True,cursorfollower_movement_T007.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,8,2,3,45.84,46.22432,1.2,False,Left,46.09731,True,cursorfollower_movement_T008.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,9,2,4,48.22419,48.80981,1.2,False,Left,48.46746,True,cursorfollower_movement_T009.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,10,3,1,49.94721,50.69016,0.6,False,Right,50.32135,True,cursorfollower_movement_T010.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,11,3,2,51.92805,52.71446,0.6,False,Left,52.24849,True,cursorfollower_movement_T011.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,12,3,3,53.93279,54.33762,0.6,False,Right,54.19342,True,cursorfollower_movement_T012.csv
+advanced_example_array/test/S001,advanced_example_array,test,1,13,3,4,55.74589,56.16448,0.6,False,Left,56.03109,True,cursorfollower_movement_T013.csv
